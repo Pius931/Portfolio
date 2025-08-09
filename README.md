@@ -3,9 +3,11 @@
 A fully responsive portfolio website built to showcase my web development skills and projects.
 
 ## Live Preview
-[View Portfolio](https://pius931.github.io/portfolio/)
+
+[View Portfolio](https://pius931.github.io/Portfolio/)
 
 ## Sections
+
 - Hero Section with call to action
 - About Me
 - Skills
@@ -14,14 +16,17 @@ A fully responsive portfolio website built to showcase my web development skills
 - Mobile navigation (hamburger menu)
 
 ## Features
+
 - Fully responsive (mobile-first)
 - Smooth scroll navigation
 - Clean UI/UX
 
 ## Built With
+
 - HTML5
 - CSS3 (SCSS)
 - JavaScript (vanilla)
 
 ## Author
+
 Pius Olumide
